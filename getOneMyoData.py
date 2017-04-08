@@ -1,6 +1,5 @@
 # Copyright (C) 2015  Niklas Rosenstein, MIT License
-# Last modified by Yi Jui Lee (August 15 2015)
-
+# Last modified by Gan
 from __future__ import division
 import sys
 from sys import exit
