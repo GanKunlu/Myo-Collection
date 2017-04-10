@@ -28,8 +28,9 @@ def onKeyboardEvent(event):
 		if(tagGesture != 1):
 			print(" ")
 			print("#########  gesture start:  ##########")
+			tagNext = 0
 		tagGesture = 1
-		tagNext = 0
+		
 	if(event.Key == "T"):
 		if(tagGesture == 1):
 			print("\bTag " +str(tagNext+1)+" ")
