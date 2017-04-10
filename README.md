@@ -35,7 +35,7 @@ List[ data of Myo1 ,data of Myo2  ]
 
 List[ data of Myo 1 , data of Myo 2 ]
 
-## requared
+## 依赖
 - [myo-python](https://github.com/NiklasRosenstein/myo-python)
 - [PyWin32](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
 - [PyHook](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
